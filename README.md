@@ -1,10 +1,17 @@
-# party-in-the-back
+# Bob the Minion: Business in the Front, Party in the Back!
 
 ## Description
 ---
+a simple minion PCB with eyes that light up when you press the button!
 
 ## BOM
 ---
+* 1 Battery Holder 
+* 1 Push button
+* 2 47Ω Resistors
+* 2 LEDs
+
+Made by `@reem` on slack :) 
 
 ## Schematic View
 ---
