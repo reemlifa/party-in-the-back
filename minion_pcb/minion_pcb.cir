@@ -1,0 +1,16 @@
+.title KiCad schematic
+.model __D1 D
+SW1 __SW1
+U1 __U1
+C2 VCC GND 0.1u
+C1 Net-_U1-CV_ GND 100 µF
+Q2 __Q2
+U2 __U2
+R1 Net-_U1-TR_ Net-_BT1-+_ 10k
+C3 Net-_BT1-+_ GND 100n
+Q1 __Q1
+D1 Net-_D1-A_ Net-_BT1-+_ __D1
+M2 __M2
+BT1 __BT1
+R4 VCC VCC 10k
+.end
